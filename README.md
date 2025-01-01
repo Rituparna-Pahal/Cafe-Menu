@@ -4,7 +4,7 @@ Welcome to my **Cafe Menu** project! This project is a simple and elegant cafe m
 
 ## About the Project
 
-This project was built as a practice exercise after revising the HTML and CSS basics on FreeCodeCamp. The main goal was to create a visually appealing cafe menu using only HTML and CSS, focusing on:
+This project was built as a practice exercise after revising the HTML and CSS basics on **FreeCodeCamp**. The main goal was to create a visually appealing cafe menu using only HTML and CSS, focusing on:
 
 - Semantic HTML structure.
 - Basic styling with CSS.
