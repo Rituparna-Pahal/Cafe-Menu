@@ -1,4 +1,5 @@
-# Cafe Menu
+# Cafe Menu 
+[ [Visit Menu](https://rituparna-pahal.github.io/Cafe-Menu/) ]
 
 Welcome to my **Cafe Menu** project! This project is a simple and elegant cafe menu created using basic HTML and CSS, designed to help me revise and solidify my foundational web development skills.
 
